@@ -3,3 +3,6 @@
 This sample shows how to Sign in Firebase using [Instagram](https://www.instagram.com/developer/).
 
 You can try this google sample at: [instagram-auth.appspot.com](https://instagram-auth.appspot.com).
+
+# How to
+run ```npm run start```
