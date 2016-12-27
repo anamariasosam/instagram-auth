@@ -1,17 +1,5 @@
-# Samples: Sign In Firebase with additional auth providers using Custom auth tokens
+# Use Instagram Sign In with Firebase
 
-This repo contains samples that demonstrate how to use Custom auth tokens to Sign In Firebase with Identity Providers other than the ones with build-in support (Google, Facebook, Twitter and GitHub).
-We currently have the following samples:
+This sample shows how to Sign in Firebase using [Instagram](https://www.instagram.com/developer/).
 
- - [Instagram](instagram) for Web
- - [LINE Login](Line) for iOS & Android
-
-
-## Contributing
-
-We'd love that you contribute to the project. Before doing so please read our [Contributor guide](CONTRIBUTING.md).
-
-
-## License
-
-© Google, 2016. Licensed under an [Apache-2](LICENSE) license.
+You can try this google sample at: [instagram-auth.appspot.com](https://instagram-auth.appspot.com).
